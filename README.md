@@ -8,7 +8,7 @@ Estudante de **Engenharia de Software** na FIAP, apaixonado por tecnologia e com
 
 ### 💻 Minhas Habilidades e Interesses
 
-* **Linguagens de Programação:** Python, Java
+* **Linguagens de Programação:** Python, Java, JS, HTML/CSS, C++
 * **Back-end:** Em busca de aprofundamento
 * **Áreas de Interesse:** Machine Learning, Desenvolvimento Full Stack
 
