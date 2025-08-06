@@ -18,8 +18,6 @@ Estudante de **Engenharia de Software** na FIAP, apaixonado por tecnologia e com
 
 * **Harvard CS50's Introduction to Artificial Intelligence:** Repositório que reúne diversos projetos de um curso de Machine Learning de Harvard. É um projeto completo que demonstra minha dedicação e conhecimento na área. Você pode conferir os projetos [aqui](URL DO SEU REPOSITÓRIO).
 
-* **[Nome do Novo Projeto Pessoal]:** Estou iniciando um novo projeto que em breve estará disponível por aqui. Será uma excelente oportunidade para mostrar minhas habilidades em [Tecnologia(s) que você vai usar].
-
 ---
 
 ### 🎯 O que eu busco
@@ -31,3 +29,4 @@ Estou ativamente à procura de uma oportunidade de **estágio** onde eu possa co
 ### 📫 Fale Comigo
 
 * **LinkedIn:** [João Paulo Santana Basta](https://www.linkedin.com/in/jo%C3%A3o-paulo-santana-basta-4299b8281/)
+* **E-mail:** bpjoao00@gmail.com
