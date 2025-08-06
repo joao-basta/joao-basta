@@ -16,7 +16,7 @@ Estudante de **Engenharia de Software** na FIAP, apaixonado por tecnologia e com
 
 ### 🚀 Projetos em Destaque
 
-* **Harvard CS50's Introduction to Artificial Intelligence:** Repositório que reúne diversos projetos de um curso de Machine Learning de Harvard. É um projeto completo que demonstra minha dedicação e conhecimento na área. Você pode conferir os projetos [aqui](URL DO SEU REPOSITÓRIO).
+* **Harvard CS50's Introduction to Artificial Intelligence:** Repositório que reúne diversos projetos de um curso de Machine Learning de Harvard. É um projeto completo que demonstra minha dedicação e conhecimento na área. Você pode conferir os projetos [https://github.com/joao-basta/machine-learning-python]
 
 ---
 
